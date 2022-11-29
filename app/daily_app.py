@@ -1,7 +1,7 @@
 import time
 import traceback
 
-from app.bot_api import BotAPI, BotName
+from bot_api import BotAPI, BotName
 from database.scrapers import ScraperDB
 
 bot_api = BotAPI()
