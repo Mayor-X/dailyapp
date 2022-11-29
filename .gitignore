@@ -1,0 +1,19 @@
+/.vscode/
+/.idea/
+
+tmp
+env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# config file
+config/database.json
+=======
+__pycache__
+geckodriver.log
+database.json
+.DS_Store
+.env
